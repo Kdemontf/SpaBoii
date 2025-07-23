@@ -29,6 +29,8 @@ username: MQTTUSERNAME
 
 password: PASSWORD
 
+spaip: YOURSPAIPADDRESS
+
 ## Usage
 python SpaBoii.py
 
